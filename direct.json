@@ -2,23 +2,12 @@
   "version": 2,
   "rules": [
     {
-      "_comment": "这里填写需要【精确匹配】的域名",
-      "domain": [
-      ]
-    },
-    {
-      "_comment": "这里填写【后缀匹配】，比如 qq.com 会匹配所有腾讯二级域名",
       "domain_suffix": [
         "micu.com",
         "nageki-net.com",
-		"naominet.live"
+        "naominet.live",
+        "2kgames.com"
       ]
-    },
-    {
-      "_comment": "这里是【关键字匹配】，最模糊也最强大的匹配方式",
-      "domain_keyword": [
-        "okemby"
-      ]
-    },
+    }
   ]
 }
