@@ -19,7 +19,8 @@
         "api.miwifi.com",
         "oppomobile.com",
         "gh-proxy.com",
-        "cycani.org"
+        "cycani.org",
+        "pool.ntp.org"
       ]
     }
   ]
