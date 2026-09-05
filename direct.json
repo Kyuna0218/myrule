@@ -21,7 +21,10 @@
         "gh-proxy.com",
         "cycani.org",
         "pool.ntp.org",
-        "photon-xr.com"
+        "photon-xr.com",
+        "azureedge.net",
+        "fbcdn.net",
+        "oculuscdn.com"
       ]
     }
   ]
