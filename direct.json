@@ -20,13 +20,13 @@
         "oppomobile.com",
         "gh-proxy.com",
         "cycani.org",
-        "pool.ntp.org",
-        "photon-xr.com",
-        "azureedge.net",
-        "fbcdn.net",
-        "oculuscdn.com",
-        "interdime.io"
+        "pool.ntp.org"
       ]
+"ip_cidr": [
+        "57.144.0.0/16",
+        "31.13.0.0/16",
+        "2606:4700:20::/48"
+      ]   
     }
   ]
 }
